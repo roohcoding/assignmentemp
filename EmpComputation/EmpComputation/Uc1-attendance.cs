@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmpComputation
 {
-    internal class Uc1_attendance
+    internal class Uc1_Attendance
     {
 
         public static void Attendance()
@@ -22,7 +22,6 @@ namespace EmpComputation
             {
                 Console.WriteLine("Employee is absent");
             }
-
         }
     }
 }
