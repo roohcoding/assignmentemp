@@ -2,3 +2,4 @@
 using EmpComputation;
 Console.WriteLine("Hello, World!");
 Uc1_Attendance.Attendance();
+Uc2_Wages.Wage();
