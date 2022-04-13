@@ -5,3 +5,4 @@ Uc1_Attendance.Attendance();
 Uc2_Wages.Wage();
 Uc3_Partime.Wage();
 Uc4_Casestatement.Empwage();
+Uc5_Monthwages.monthwages();
